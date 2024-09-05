@@ -17,7 +17,7 @@ public class _3_Algebra {
         //float result = (float) a /b;
         //float result = a%b;
 
-        System.out.print("The result is:");
+        System.out.print("The result is: ");
         System.out.println(result);
     }
 }

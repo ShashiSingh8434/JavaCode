@@ -13,7 +13,7 @@ public class _2_Input {
 
         System.out.print("Hello ");
         System.out.print(name);
-        System.out.print(" we welcome you to java world.");
+        System.out.print(", we welcome you to java world.");
 
     }
 }
